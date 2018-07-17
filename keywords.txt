@@ -12,7 +12,7 @@ ColorName	KEYWORD1
 # Methods and Functions (KEYWORD2)
 #######################################
 
-ColorNameString KEYWORD2
+ColorNameString	KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
